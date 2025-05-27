@@ -1,4 +1,10 @@
-# React + Vite
+# first-react-project
+
+This is a React + Vite project.
+
+---
+
+## React + Vite Template Info
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
